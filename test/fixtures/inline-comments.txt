@@ -1,0 +1,33 @@
+.
+s
+.
+<p>s</p>
+.
+
+.
+there’s a comment <!-- here is the comment --> present in this line
+.
+<p>there’s a comment  present in this line</p>
+.
+
+.
+clearly not a <!-- a comment
+.
+<p>clearly not a &lt;!-- a comment</p>
+.
+
+.
+more text that is not a comment -->
+.
+<p>more text that is not a comment --&gt;</p>
+.
+
+coverage
+.
+*~f
+.
+<p>*~f</p>
+.
+
+clean up init (constructor)
+remove icon
