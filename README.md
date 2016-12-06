@@ -2,7 +2,6 @@
 
 [![Build Status](https://img.shields.io/travis/jay-hodgson/markdown-it-inline-comments/master.svg?style=flat)](https://travis-ci.org/jay-hodgson/markdown-it-inline-comments)
 [![NPM version](https://img.shields.io/npm/v/markdown-it-inline-comments.svg?style=flat)](https://www.npmjs.org/package/markdown-it-inline-comments)
-[![Coverage Status](https://img.shields.io/coveralls/jay-hodgson/markdown-it-inline-comments/master.svg?style=flat)](https://coveralls.io/r/jay-hodgson/markdown-it-inline-comments?branch=master)
 
 > Center text plugin for [markdown-it](https://github.com/markdown-it/markdown-it) markdown parser.
 
